@@ -30,7 +30,7 @@ Installing openCV is kind of a pain. make sure you have python and homebrew inst
     
 Now open CV is on your mac.
 
-   A few things I like to get installed before any code is:
+    A few things I like to get installed before any code is:
       pip install numpy
       pip install matplotlib
       pip install imutils
